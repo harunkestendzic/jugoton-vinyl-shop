@@ -1,0 +1,12 @@
+.env
+*.env
+*.pem
+*.p12
+*.sso
+*.jks
+Wallet_*/
+wallet/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
